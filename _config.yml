@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://alisanaeikia.github.io/Webpage/
+url: https://alisanaeikia.github.io/testpage/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
