@@ -6,7 +6,7 @@ title: Blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
-		<p class="text-center">I invite you to visit my tweets. The link to my twitter account has been provided above.</p>
+		<p class="text-center">I invite you to read my tweets. The link to my twitter account has been provided above.</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
