@@ -7,7 +7,7 @@ bio: a person who thinks he thinks
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -20,7 +20,7 @@ url: https://alisanaeikia.github.io/testpage/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
-picture: assets/images/profile.jpg
+
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -31,7 +31,7 @@ picture: assets/images/profile.jpg
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: asanaeikia # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -57,8 +57,8 @@ email: alisna71@yahoo.com
 author:
     Ali:
         name: Ali Sanaeikia
-        bio: A Person who thinks he thinks
-        external-image: true
+        bio: A person who thinks he thinks
+        external-image: false
         picture: assets/images/profile.jpg
         twitter: alisna71
    # jamesfoster:
@@ -85,7 +85,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
