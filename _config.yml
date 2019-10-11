@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 Curriculum Vitae: true
 resume-external: false
-Curriculum Vitae-url: resume
+Curriculum Vitae-url: Curriculum Vitae
 
 url: https://alisanaeikia.github.io/
 # your url: http://USERNAME.github.io
