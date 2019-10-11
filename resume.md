@@ -8,5 +8,5 @@ hidden: true
 externalLink: false
 ---
 
-To view or download the **latest short version** of my CV, [click here](../../assets/files/cv.pdf).
+To download the my CV,please [click here](../../testpage/assets/files/cv.pdf).
 
