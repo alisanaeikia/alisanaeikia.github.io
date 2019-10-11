@@ -20,6 +20,7 @@ url: https://alisanaeikia.github.io/testpage/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
+/:picture/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
