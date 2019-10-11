@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-cv: true
+resume: true
 cv-external: false
-cv-url: cv
+resume-url: cv
 
 url: https://alisanaeikia.github.io
 # your url: http://USERNAME.github.io
