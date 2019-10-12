@@ -2,7 +2,7 @@
 title: Causal Explanation of/in History's Abstract
 layout: page-md
 projects: false
-category: project
+category: blog
 author: Ali
 externalLink: false
 ---
