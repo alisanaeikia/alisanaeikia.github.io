@@ -5,7 +5,7 @@ picture: assets/images/1773070.jpg
 ---
 
 
-![profile image]({{ site.url }}/{{ page.picture }}) {: height="48px" width="96px"} {: .center-image } 
+![profile image]({{ site.url }}/{{ page.picture }}){: .center-image } 
 
 
 Hi Everyone!
