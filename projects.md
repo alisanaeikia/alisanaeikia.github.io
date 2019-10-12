@@ -16,7 +16,7 @@ Class Assignment papers:
 
 •	“The Relation between Inspiration and Art in Plato”, Class assignment Paper, under supervision of Dr.Beheshti, 2019, It is In Farsi but its Abstract is translated [in here](../../assets/files/cv.pdf).
 
-•	“What is “Doing Philosophy”?”, Class assignment Paper, under supervision of Dr.Mesbahian, 2019, this paper is in Farsi you can see it [in here](../../assets/files/فلسفه؟ - علی سنائی کیا.pdf).
+•	“What is “Doing Philosophy”?”, Class assignment Paper, under supervision of Dr.Mesbahian, 2019, this paper is in Farsi you can see it [in here](../../assets/files/doing phlosophy.pdf).
 
 •	“Correspondence Theory of Truth: Russel vs. Austin”, Class assignment Paper, under supervision of Dr.Mousavian, 2019,in English, You can Find the Whole paper [in here](../../assets/projects/Correspondence Theory of Truth Russel vs. Austin - Ali Sanaeikia.pdf).
 
