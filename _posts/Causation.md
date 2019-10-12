@@ -1,6 +1,6 @@
 ---
 title: Causal Explanation of/in History's Abstract
-layout: post.html
+layout: page
 projects: true
 category: project
 author: Ali
