@@ -28,6 +28,8 @@ Class Assignment papers:
 
 •	“Capital Punishment in Hegel’s System”, Class assignment Paper, under supervision of Dr.Abazari, 2017, in English, You can Find the Whole paper [in here](../../assets/projects/Capital Punishment in Hegel’s System-Ali Sanaeikia.pdf).
 
+
+
 Presentations:
 
 •	Treatise on Man, University of Tehran, Spring 2018, you see the presentation material [in here](../../assets/projects/Treatise on Man presentation.pdf).
