@@ -1,5 +1,5 @@
 ---
-title: My Bio
+title: A Short Bio
 layout: page-md
 picture: assets/images/1773070.jpg
 ---
