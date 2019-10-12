@@ -8,6 +8,9 @@ hidden: false
 externalLink: false
 ---
 
+Current Projects:
+I am working on the grounds of grounds for my thesis. I am thinking about Ted Sider's principle of purity and its relation to fundamentality. whether it would make a problem for the grounds of grounds or not. I am defending a stronger claim that the problem of grounds of grounds is not tied to Sider's principle and whether it is true that by accepting it, we face the collapse or not, we still have to answer the question of "what is the grounds of grounds?".
+
 Class Assignment papers:
 
 •	“Objective Truth Vs Subjectivity in Truth: Is Kierkegaard an Adherent of Pluralism in Truth?”, Class assignment Paper, under supervision of Dr.Rikhtegaran, 2019, you can see the whole paper in Farsi [in here](../../assets/projects/Objective Truth Vs Subjectivity in Truth Is Kierkegaard an Adherent of Pluralism in Truth.pdf), Later I will upload a translation of its abstract in English.
