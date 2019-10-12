@@ -9,7 +9,8 @@ externalLink: false
 ---
 
 Current Projects:
-I am working on the grounds of grounds for my thesis. I am thinking about Ted Sider's principle of purity and its relation to fundamentality. whether it would make a problem for the grounds of grounds or not. I am defending a stronger claim that the problem of grounds of grounds is not tied to Sider's principle and whether it is true that by accepting it, we face the collapse or not, we still have to answer the question of "what is the grounds of grounds?".
+
+•	I am working on the grounds of grounds for my thesis. I am thinking about Ted Sider's principle of purity and its relation to fundamentality. whether it would make a problem for the grounds of grounds or not. I am defending a stronger claim that the problem of grounds of grounds is not tied to Sider's principle and whether it is true that by accepting it, we face the collapse or not, we still have to answer the question of "what is the grounds of grounds?".
 
 Class Assignment papers:
 
