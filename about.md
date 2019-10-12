@@ -7,7 +7,6 @@ picture: assets/images/1773070.jpg
 
 ![profile image]({{ site.url }}/{{ page.picture }}){: .center-image } 
 
-
 Hi Everyone!
 
 I am a philosophy student at the University of Tehran. I am thriving to get accepted to a PhD programme because I think it is the best job in the world. Trust me; I tried some other jobs.
