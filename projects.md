@@ -20,7 +20,7 @@ Class Assignment papers:
 
 •	“Correspondence Theory of Truth: Russel vs. Austin”, Class assignment Paper, under supervision of Dr.Mousavian, 2019,in English, You can Find the Whole paper [in here](../../assets/projects/Correspondence Theory of Truth Russel vs. Austin - Ali Sanaeikia.pdf).
 
-•	“The Raltion of Phantasia to Perception and Thought in Aristotle’s De Anima”, Class assignment Paper, under supervision of Dr.Beheshti,2018,  you can see the whole paper in Farsi [in here](../../assets/projects/The Relation of Phantasia to Perception and Thought in Aristotle’s De Anima.pdf), Later I will upload a translation of its abstract in English.
+•	“The Relation of Phantasia to Perception and Thought in Aristotle’s De Anima”, Class assignment Paper, under supervision of Dr.Beheshti,2018,  you can see the whole paper in Farsi [in here](../../assets/projects/The Relation of Phantasia to Perception and Thought in Aristotle’s De Anima.pdf), Later I will upload a translation of its abstract in English.
 
 
 •	“Copy Principle in Hume's Philosophy of Mind”, Class assignment Paper, under supervision of Dr.Tabatabaee, 2018, in English, You can Find the Whole paper [in here](../../assets/projects/Copy Principle in Hume's Philosophy of Mind - Ali Sanaeikia.pdf).
