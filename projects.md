@@ -12,7 +12,7 @@ Class Assignment papers:
 
 •	“Objective Truth Vs Subjectivity in Truth: Is Kierkegaard an Adherent of Pluralism in Truth?”, Class assignment Paper, under supervision of Dr.Rikhtegaran, 2019, It is In Farsi but its Abstract is translated [in here](../../assets/projects/cv.pdf).
 
-•“Causal Explanation of/in History”, Class assignment Paper, under supervision of Dr.Mesbahian,2019, It is In Farsi but its Abstract is translated [in here](../../_post/causation.md).
+•“Causal Explanation of/in History”, Class assignment Paper, under supervision of Dr.Mesbahian,2019, It is In Farsi but its Abstract is translated [in here](../../_posts/causation.md).
 
 •	“The Relation between Inspiration and Art in Plato”, Class assignment Paper, under supervision of Dr.Beheshti, 2019, It is In Farsi but its Abstract is translated [in here](../../assets/files/cv.pdf).
 
