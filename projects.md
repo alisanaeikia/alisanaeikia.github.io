@@ -10,7 +10,7 @@ externalLink: false
 
 Class Assignment papers:
 
-•	“Objective Truth Vs Subjectivity in Truth: Is Kierkegaard an Adherent of Pluralism in Truth?”, Class assignment Paper, under supervision of Dr.Rikhtegaran, 2019, It is In Farsi but its Abstract is translated [in here](../../assets/projects/cv.pdf).
+•	“Objective Truth Vs Subjectivity in Truth: Is Kierkegaard an Adherent of Pluralism in Truth?”, Class assignment Paper, under supervision of Dr.Rikhtegaran, 2019, you can see the whole paper in Farsi [in here](../../assets/projects/Objective Truth Vs Subjectivity in Truth Is Kierkegaard an Adherent of Pluralism in Truth.pdf), Later I will upload a translation of its abstract in English.
 
 •“Causal Explanation of/in History”, Class assignment Paper, under supervision of Dr.Mesbahian,2019, It is In Farsi but its Abstract is translated [in here](../../assets/projects/causation.pdf).
 
