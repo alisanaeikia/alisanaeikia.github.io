@@ -10,7 +10,7 @@ externalLink: false
 
 Current Projects:
 
-•My future PhD Proposal: Although I am not currently a PhD student, my passion about grounding drives me to study this topic and drawn me into deep ocean of topics on the grounding, in this proposal I am trying to show the gap in grounding talk wich needed to be filled. you can find this in progress research proposal [in here](../../assets/projects/In Progress Research Proposal.pdf)  
+•My future PhD Proposal: Although I am not currently a PhD student, my passion about grounding drives me to study this topic and drawn me into deep ocean of topics on the grounding, in this proposal I am trying to show the gap in grounding talk wich needed to be filled. you can find this in progress PhD research proposal [in here](../../assets/projects/In Progress Research Proposal 1.pdf)  
 
 •	Masters Thesis: I am working on the grounds of grounds for my thesis. I am thinking about Ted Sider's principle of purity and its relation to fundamentality. whether it would make a problem for the grounds of grounds or not. I am defending a stronger claim that the problem of grounds of grounds is not tied to Sider's principle and whether it is true that by accepting it, we face the collapse or not, we still have to answer the question of "what is the grounds of grounds?".
 
