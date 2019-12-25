@@ -12,6 +12,9 @@ Writing Sample, finished in December 2019:
 
 In this paper I examine deRosset's paper, "Grounding Explanations". You can find it [in here](../../assets/projects/Review of deRosset’s Grounding Explanations.pdf) 
 
+
+
+
 Current Projects:
 
 •My future PhD Proposal: Although I am not currently a PhD student, my passion about grounding drives me to study this topic and drawn me into deep ocean of topics on the grounding, in this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/In Progress Research Proposal 2.pdf)  
