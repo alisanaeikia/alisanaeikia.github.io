@@ -10,7 +10,7 @@ externalLink: false
 
 Writing Sample, finished in December 2019:
 
-In this paper I examine deRosset's paper, "Grounding Explanations". You can find it [in here](../../assets/projects/Review of deRosset’s Grounding Explanations.pdf) 
+In this paper, I examine deRosset's paper, "Grounding Explanations". You can find it [in here](../../assets/projects/Review of deRosset’s Grounding Explanations.pdf) 
 
 
 
