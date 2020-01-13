@@ -17,11 +17,11 @@ In this paper, I examine deRosset's account of collapse problem, which he states
 
 Current Projects:
 
-•My future PhD Proposal number 1: Although I am not currently a PhD student, my passion about grounding drives me to study this topic and drawn me into deep ocean of topics on the grounding, in this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/Grounding and the Structure of Reality - Ali Sanaeikia.pdf)  
+•My future PhD Proposal number 1: Although I am not currently a PhD student, my passion about grounding drives me to study this topic and drawn me into deep ocean of topics on the grounding, in this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/Grounding and the Structure of Reality - Ali Sanaeikia1.pdf)  
 
-•My future PhD Proposal number 2: In this proposal I apply grounding talk in the debates between priority views. I show the gap between monism and pluralism. You can find this in progress PhD research proposal [in here](../../assets/projects/Monism the Priority of a Structure over the Concrete Objects.pdf)  
+•My future PhD Proposal number 2: In this proposal I apply grounding talk in the debates between priority views. I show the gap between monism and pluralism. You can find this in progress PhD research proposal [in here](../../assets/projects/Monism the Priority of a Structure over the Concrete Objects1.pdf)  
 
-•My future PhD Proposal number 3: Although I am not currently a PhD student, my passion about grounding drives me to study this topic and drawn me into deep ocean of topics on the grounding, in this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/In Progress Research Proposal 2.pdf)  
+•My future PhD Proposal number 3: In this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/In Progress Research Proposal 2.pdf)  
 
 •	Masters Thesis: I am working on the grounds of grounds for my thesis. I am thinking about Ted Sider's principle of purity and its relation to fundamentality. whether it would make a problem for the grounds of grounds or not. I am defending a stronger claim that the problem of grounds of grounds is not tied to Sider's principle and whether it is true that by accepting it, we face the collapse or not, we still have to answer the question of "what is the grounds of grounds?".
 
