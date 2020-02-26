@@ -10,8 +10,7 @@ externalLink: false
 
 Writing Sample, finished in December 2019:
 
-In this paper, I examine deRosset's account of collapse problem, which he states in "Grounding Explanations". You can find it [in here](../../assets/projects/On deRosset’s Collapse Problem - Ali Sanaeikia.pdf) 
-
+In this paper, I examine deRosset's account of collapse problem, which he states in "Grounding Explanations". (please contact me via e-mail to send  the editted version to you)
 
 
 
