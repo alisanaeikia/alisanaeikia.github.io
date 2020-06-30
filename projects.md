@@ -49,4 +49,5 @@ Class Assignment papers:
 Presentations:
 
 •	Treatise on Man, University of Tehran, Spring 2018, you can see the presentation material [in here](../../assets/projects/Treatise on Man presentation.pdf).
+
 • IPM's Students Seminar : I presented my in progress paper on the collapse problem and trialism you can see the presentation material [in here](../../assets/projects/On deRosset's Collapse Problem - 3.pdf).
