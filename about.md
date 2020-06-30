@@ -11,6 +11,7 @@ picture: assets/images/1773070.jpg
 Hi Everyone!
 
 I am a philosophy student at the University of Tehran. I am thriving to get accepted to a PhD programme because I think it is the best job in the world. Trust me; I tried some other jobs.
+Uppdate: I got into the University of Rochester for  a Ph.D in philosophy program! (June 30th)
 
 I am primarily interested in metaphysics and philosophical logic and their relations to other topics. More specifically, I am interested in Metaphysical grounding.  Currently, I am writing my masters thesis on the collapse problem and Sider’s principle of purity. If you are interested in this subject, drop me an e-mail and let us discuss. You will probably help me to sleep at nights because this issue is keeping me awake nowadays.
 
