@@ -22,18 +22,12 @@ Current Projects:
 
 •My future PhD Proposal number 3: In this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/In Progress Research Proposal 2.pdf)  
 
-•	Masters Thesis: I am working on the grounds of grounds for my thesis. I am thinking about Ted Sider's principle of purity and its relation to fundamentality. whether it would make a problem for the grounds of grounds or not. I am defending a stronger claim that the problem of grounds of grounds is not tied to Sider's principle and whether it is true that by accepting it, we face the collapse or not, we still have to answer the question of "what is the grounds of grounds?".
+•	Masters Thesis: I worked on the grounds of grounds for my thesis. I thought about deRosset's collapse problem. whether it would make a problem for the grounds of grounds or not. I defended the view that this argument is not sound and the other argument for the grounding facts to be grounded, namely bennet's argument of free modal recombination, has its flaws too. So, I defended a trialistic approach regarding the grounding facts and I tried to defend Dasgupta's version of the trialism regarding the mata-ground question.
+You can see some of my thoughts on the above writing sample.
 
 
 Class Assignment papers:
 
-•	“Objective Truth Vs Subjectivity in Truth: Is Kierkegaard an Adherent of Pluralism in Truth?”, Class assignment Paper, under supervision of Dr.Rikhtegaran, 2019, you can see the whole paper in Farsi [in here](../../assets/projects/Objective Truth Vs Subjectivity in Truth Is Kierkegaard an Adherent of Pluralism in Truth.pdf), Later I will upload a translation of its abstract in English.
-
-•“Causal Explanation of/in History”, Class assignment Paper, under supervision of Dr.Mesbahian,2019, It is In Farsi but its Abstract is translated [in here](../../assets/projects/causation.pdf).
-
-•	“The Relation between Inspiration and Art in Plato”, Class assignment Paper, under supervision of Dr.Beheshti, 2019, you can see the whole paper in Farsi [in here](../../assets/projects/The Relation between Inspiration and Art in Plato.pdf), Later I will upload a translation of its abstract in English.
-
-•	“What is “Doing Philosophy”?”, Class assignment Paper, under supervision of Dr.Mesbahian, 2019, It is In Farsi but its Abstract is translated [in here](../../assets/projects/doing phlosophy.pdf).
 
 •	“Correspondence Theory of Truth: Russel vs. Austin”, Class assignment Paper, under supervision of Dr.Mousavian, 2019,in English, You can Find the Whole paper [in here](../../assets/projects/Correspondence Theory of Truth Russel vs. Austin - Ali Sanaeikia.pdf).
 
@@ -55,4 +49,4 @@ Class Assignment papers:
 Presentations:
 
 •	Treatise on Man, University of Tehran, Spring 2018, you can see the presentation material [in here](../../assets/projects/Treatise on Man presentation.pdf).
-• IPM's Students Seminar : I presented my in progress paper on the collapse problem and trialism you can see the presentation material [in here](../../assets/projects/Treatise on Man presentation.pdf).
+• IPM's Students Seminar : I presented my in progress paper on the collapse problem and trialism you can see the presentation material [in here](../../assets/projects/On deRosset's Collapse Problem - 3.pdf).
