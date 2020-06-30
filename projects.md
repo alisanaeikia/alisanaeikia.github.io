@@ -10,7 +10,7 @@ externalLink: false
 
 Writing Sample, finished in December 2019:
 
-In this paper, I examine deRosset's account of collapse problem, which he states in "Grounding Explanations". (please contact me via e-mail to send  the editted version to you)
+In this paper, I examine deRosset's account of collapse problem, which he states in "Grounding Explanations".  You can find this paper [in here](../../assets/projects/On deRosset’s Collapse Problem - Ali Sanaeikia.pdf)  
 
 
 
@@ -54,5 +54,5 @@ Class Assignment papers:
 
 Presentations:
 
-•	Treatise on Man, University of Tehran, Spring 2018, you see the presentation material [in here](../../assets/projects/Treatise on Man presentation.pdf).
-
+•	Treatise on Man, University of Tehran, Spring 2018, you can see the presentation material [in here](../../assets/projects/Treatise on Man presentation.pdf).
+• IPM's Students Seminar : I presented my in progress paper on the collapse problem and trialism you can see the presentation material [in here](../../assets/projects/Treatise on Man presentation.pdf).
