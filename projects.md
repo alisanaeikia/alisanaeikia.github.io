@@ -16,11 +16,6 @@ In this paper, I examine deRosset's account of collapse problem, which he states
 
 Current Projects:
 
-•My future PhD Proposal number 1: Although I am not currently a PhD student, my passion about grounding drives me to study this topic and drawn me into deep ocean of topics on the grounding, in this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/Grounding and the Structure of Reality - Ali Sanaeikia1.pdf)  
-
-•My future PhD Proposal number 2: In this proposal I apply grounding talk in the debates between priority views. I show the gap between monism and pluralism. You can find this in progress PhD research proposal [in here](../../assets/projects/Monism the Priority of a Structure over the Concrete Objects1.pdf)  
-
-•My future PhD Proposal number 3: In this proposal I am trying to show the gap in grounding talk which needed to be filled. You can find this in progress PhD research proposal [in here](../../assets/projects/In Progress Research Proposal 2.pdf)  
 
 •	Masters Thesis: I worked on the grounds of grounds for my thesis. I thought about deRosset's collapse problem. whether it would make a problem for the grounds of grounds or not. I defended the view that this argument is not sound and the other argument for the grounding facts to be grounded, namely bennet's argument of free modal recombination, has its flaws too. So, I defended a trialistic approach regarding the grounding facts and I tried to defend Dasgupta's version of the trialism regarding the mata-ground question.
 You can see some of my thoughts on the above writing sample.
